@@ -1,0 +1,70 @@
+﻿l_english:
+
+ ###Events
+ 
+ 
+
+ ### Parties
+
+ POL_centrism_party: "Stronnictwo Białych"
+ POL_traditional_conservatism_party: "Koło Konserwatystów"
+ POL_ideology_radical_socialism_party: "Lud Polski"
+ POL_autocracy_party: "Hotel Lambert"
+ POL_radical_democracy_party: "Stronnictwo Czerwonych"
+ POL_anarchism_party: "Polski Alians Demokracji Socjalistycznej"
+ POL_fundamentalism_party: "Konferencja Episkopatu Polski"
+
+ POL_vic_Habsburg_King: "House of Habsburg"
+ POL_vic_Czartoryski_King: "House of Czartoryski"
+ POL_vic_Wettin_King: "House of Wettin"
+ POL_vic_Napoleon_King: "House of Bonaparte"
+ POL_vic_Wielopolski: "Rząd Cywilny Królestwa Polskiego"
+
+ ### Traits
+
+ POL_insurgent_general: "Insurgent General"
+ POL_insurgent_general_desc: "This general took part in the January Uprising"
+ 
+ ### Ideas
+
+ POL_Refund: "Recompensate The Landlords"
+ POL_Organic_Work: "Organic Work"
+ POL_Agricultural_Society: "Agricultural Society"
+ POL_Agricultural_Society_desc: "Poland has always been a country which has prioritized it's agricultural might above it's neighbors, providing a plentyful supply of food for it's citizens but hampering the ability to urbanize and industrialize."
+ POL_January_Uprising: "January Uprising"
+ POL_vic_A_Country_Reborn: "A Country Reborn"
+ POL_vic_Russian_Trade: "Abolished The Customs Border With Russia"
+ POL_vic_International_Influences: "International Influences"
+ POL_vic_Supporting_Scientific_Societies: "Supporting Scientific Societies"
+ POL_vic_Militarism: "Polish Militarism"
+ POL_vic_Military_Expeditions: "Military Expeditions"
+ POL_vic_Polish_Landwehr: "Polish Landwehr"
+ POL_vic_Western_Workforce: "Flow of Western Workforce"
+ POL_vic_Tariff_Revenue_idea: "Tariff Revenue"
+ POL_No_access_see: "No Access To The See"
+ POL_Tariffs_Russia: "The Customs Border with Russia"
+
+ ### Advisors
+
+ POL_Leopold_Kronenberg: "Leopold Kronenberg"
+ POL_Agaton_Giller: "Agaton Giller"
+ POL_Aleksandr_Gorczakow: "Aleksandr Gorczakow"
+ POL_Piotr_Walujew: "Piotr Wałujew"
+ POL_Mikhail_von_Reutern: "Michaił von Reutern"
+ POL_Stanislaw_Kierbedz: "Stanisław Kierbedź"
+ POL_vic_Franciszek_Rochebrune: "Franciszek Rochebrune"
+ POL_vic_Jozef_Hauke_Bosak: "Józef Hauke-Bosak"
+ POL_vic_Kazimierz_Blaszczynski: "Kazimierz Błaszczyński"
+ POL_vic_Anna_Pustowojtowna: "Anna Pustowójtówna"
+ POL_vic_Stanislaw_Brzoska: "Stanisław Brzóska"
+ POL_vic_Zygmunt_Jordan: "Zygmunt Jordan"
+ POL_Pawel_Edmund_Strzelecki: "Paweł Edmund Strzelecki"
+ POL_Ignacy_Domeyko: "Ignacy Domeyko"
+ POL_Wojciech_Jastrzebowski: "Wojciech Jastrzębowski"
+ POL_Franciszek_Jan_Smolka: "Franciszek Jan Smolka"
+ POL_vic_Maciej_Rybinski: "Maciej Rybiński"
+ POL_vic_Maksymilian_Rodakowski: "Maksymilian Rodakowski"
+ POL_vic_Wladyslaw_Koscielski: "Władysław Kościelski"
+ POL_vic_Wladyslaw_Romiszewski: "Władysław Romiszewski"
+ POL_vic_Jozef_Karge: "Józef Karge"
+ POL_vic_Wlodzimierz_Krzyzanowski: "Włodzimierz Krzyżanowski"
