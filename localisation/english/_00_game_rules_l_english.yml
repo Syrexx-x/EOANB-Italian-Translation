@@ -13,9 +13,9 @@ RULE_GROUP_EOANB_RULES_EUROPE:0 "Country Paths - Europe"
 FRA_EMPEROR_FATE: "£GFX_EOANB_game_rule_flag_FRA  Affare Orsini - Il Destino dell'Imperatore"
 RULE_OPTION_FRA_EMPEROR_FATE_RANDOM: "Predefinito"
 RULE_OPTION_FRA_EMPEROR_FATE_RANDOM_DESC: "Nazionalisti italiani, guidati da Felice Orsini, proveranno ad assassinare Napoleone III lanciando una bomba addosso alla sua carrozza. Sarà il Destino a scegliere il successo o l'insuccesso dell'azione."
-RULE_OPTION_FRA_EMPEROR_FATE_ALIVE: "The Emperor survives"
+RULE_OPTION_FRA_EMPEROR_FATE_ALIVE: "L'Imperatore Sopravvive"
 RULE_OPTION_FRA_EMPEROR_FATE_ALIVE_DESC: "L'attentato di Orsini fallirà, assicurando il controllo sulla Francia di Napoleone III."
-RULE_OPTION_FRA_EMPEROR_FATE_DEAD: "L'imperatore è stato assassinato"
+RULE_OPTION_FRA_EMPEROR_FATE_DEAD: "L'Imperatore è stato assassinato"
 RULE_OPTION_FRA_EMPEROR_FATE_DEAD_DESC: "L'attentato di Orsini avrà successo e l'imperatore morirà a seguito dell'esplosione che ha colpito la sua carrozza, mentre la francia crolla nel chaos, una reggenza temporanea sarà formata e alcune politiche liberali passate finchè non sarà scelto un nuovo leader."
 
 ## Sardinia-Piedmont
