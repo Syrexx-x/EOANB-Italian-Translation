@@ -1,10 +1,10 @@
 ﻿l_english:
  ###TOOLTIPS###
  CUSTOM_ALERTS_TOOLTIP_PROXY: "[CUSTOM_ALERTS_TOOLTIP]"
- CUSTOM_ALERTS_TOOLTIP_DELAYED_PROXY: "[CUSTOM_ALERTS_TOOLTIP_DELAYED]\n§GRight-click to dismiss for one month§!\n§GAlt-right-click to dismiss for one year§!"
+ CUSTOM_ALERTS_TOOLTIP_DELAYED_PROXY: "[CUSTOM_ALERTS_TOOLTIP_DELAYED]\n§GPremi tasto destro per archiviare per un meseR§!\n§GAlt-right-click to dismiss for one year§!"
  
- CUSTOM_ALERTS_MHC_POWERFUL_ADVISOR: "§YPowerful Advisor(s) in Military High Command§!"
- CUSTOM_ALERTS_TOOLTIP_DELAYED_MHC_POWERFUL_ADVISOR: "One or more of the advisors of your Military High Command are very powerful. If their power is not managed carefully, this could lead to problems."
+ CUSTOM_ALERTS_MHC_POWERFUL_ADVISOR: "§YConsigliere/i Potente/i nel Comando SupremoG§!"
+ CUSTOM_ALERTS_TOOLTIP_DELAYED_MHC_POWERFUL_ADVISOR: "Uno o più dei consiglieri del tuo Comando Supremo sono molto potenti. If their power is not managed carefully, this could lead to problems."
  CUSTOM_ALERTS_MHC_POWERFUL_ORG: "§YPowerful Organisation(s) in Military High Command§!"
  CUSTOM_ALERTS_TOOLTIP_DELAYED_MHC_POWERFUL_ORG: "One or more of the organisations of your Military High Command are very powerful. If their power is not managed carefully, this could lead to major problems."
  CUSTOM_ALERTS_MHC_UNFIT: "§YUnfit Leader(s) in Military High Command§!"
